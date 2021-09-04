@@ -3,16 +3,24 @@
 # description_of_function
 
 
-# basic overall cleaning function summary of below functions
+# basic overall cleaning function summary of below functions (drop duplicates, clean column names, clean empty spaces at the end)
 def basic_cleaning(x):
-
+	'''
+	
+	''' 
 
 
 # basic function that cleans column names of empty spaces, characters, upper letters
 def basic_clean_column_names(x):
+# regex for removing empty space at the end of each
 
+# function to drop duplicate rows
+def drop_duplicates(df):
+	'''
+	drops all duplicate rows
+	''' 
+	return df = df.drop_duplicates()
 
-
-def drop_duplicates(x):
-
-
+# function to check for special characters in dataframe
+def character_check(x):
+# check for everything that is not A-z or numerical

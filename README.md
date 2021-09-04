@@ -1,4 +1,4 @@
-# global-shark-attacks
+# Global Shark Attacks
 
 ![jaws text](jaws.jpg)
 
