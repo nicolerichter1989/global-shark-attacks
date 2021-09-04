@@ -1,6 +1,6 @@
 # global-shark-attacks
 
-![jaws text](https://www.google.com/search?q=jaws+picture+without+title&tbm=isch&ved=2ahUKEwia_92RruXyAhUJ_6QKHQCiAmMQ2-cCegQIABAA&oq=jaws+picture+without+title&gs_lcp=CgNpbWcQAzoECAAQEzoGCAAQHhATOggIABAFEB4QEzoICAAQCBAeEBNQ1xRYlTNg6jRoBnAAeACAAVmIAcAKkgECMjCYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=92szYdqnN4n-kwWAxIqYBg&bih=937&biw=1920#imgrc=LIeAUM5wSgIppM)
+![jaws text](jaws.jpg)
 
 ## Objective
 
