@@ -1,0 +1,18 @@
+# helper_file_functions
+
+# description_of_function
+
+
+# basic overall cleaning function summary of below functions
+def basic_cleaning(x):
+
+
+
+# basic function that cleans column names of empty spaces, characters, upper letters
+def basic_clean_column_names(x):
+
+
+
+def drop_duplicates(x):
+
+
