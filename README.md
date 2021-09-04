@@ -1,5 +1,7 @@
 # global-shark-attacks
 
+	![alt text](jaws.jpg)
+
 ## Objective
 
 Use a ML model to predict if a person will die or not in a shark attack.
@@ -15,7 +17,7 @@ https://www.kaggle.com/teajay/global-shark-attacks
 
 ### Shape of the Data
 
-The dataframe consits of xx rows and xx columns:
+The dataframe consits of 25723 rows × 24 columns:
 1. Case Number
 2. Date
 3. Year
